@@ -1,13 +1,6 @@
 streamlit
-moviepy==1.0.3
+moviepy
+rembg
+onnxruntime
 edge-tts
-imageio
-imageio-ffmpeg
-numpy<2.0.0
-requests
-decorator
-proglog
-tqdm
-pillow
-yt-dlp
-watchdog
+Pillow
